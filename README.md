@@ -1,3 +1,4 @@
+![dashboard](https://github.com/user-attachments/assets/0b612878-1021-4655-b7c7-73e76baaadf3)
 # Churn Analysis Dashboard
 
 This project involves the design and development of a churn analysis dashboard aimed at identifying critical business insights and improving customer retention strategies for a telecom company. The dashboard visualizes key performance indicators (KPIs) to help businesses understand customer behavior and take proactive measures.
